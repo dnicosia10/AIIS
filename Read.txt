@@ -1,0 +1,11 @@
+paayos muan ng:
+1.links ng mga pages minsan di gumagana.
+2.ilagay mo ung notification.php sa dashboard ne un ung sa Calendar
+3.ganun din ung notification_2.php sa dashboard un ung sa barrowing
+4. paghiwalayin mo nalang ung dalawa lagyan mong tab
+5.username: Dinard 
+	Password: asamax
+6.ung audit_trail.php ilagay mo na website ne
+7. ung font ikaw na bahala dun neh tas sa color ng mga interface
+8. ung sa gallery neh ung sinasabi ko na per event naka sort sya andun un sa pangalawang design ni gwen ung nagovernight tayo nung last
+kyah kyah para sa thesis gragraduate tayo hahahaha
